@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C52F7&width=435&lines=Discipline+;Dedication;Determination" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=0011F7&width=435&lines=DISCIPLINE+;DEDICATION;DETERMINATION" alt="Typing SVG" /></a>
 
 
 
