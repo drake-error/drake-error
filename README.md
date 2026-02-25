@@ -1,3 +1,7 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C52F7&width=435&lines=Discipline+;Dedication;Determination" alt="Typing SVG" /></a>
+
+
+
 # 💫 About Me:
 I'm an EEE Student with Strong Foundation<br>Working On Revenue Generating APPS<br>I'm looking For Help With DSA , Rust<br>Open For Paid Collaboration<br>3D's - Discipline , Dedication and Determination<br>Clock's Ticking , never missing a chance
 
