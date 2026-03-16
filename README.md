@@ -14,16 +14,11 @@
 
 ---
 
-### 💻 Tech Stack
+### 💻 Tech Stack:
 <p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,neovim,mysql,postman,linux,git,github,vscode,flutter,firebase,arduino&perline=11" />
+  </a>
 </p>
 
 ---
@@ -43,12 +38,20 @@
 
 ---
 
-### 🌐 Socials
+### 🌐 Socials:
 <p align="left">
-<a href="https://instagram.com/@dar.w1n_ixe"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/darwin-pk-215629393/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a> 
-<a href="https://x.com/@Drake_error"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a> 
-<a href="mailto:darwin2010p@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/darwin-pk-215629393/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://x.com/@Drake_error">
+    <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+  </a>
+  <a href="https://reddit.com/user/u/AdCandid9445">
+    <img src="https://skillicons.dev/icons?i=reddit" height="40" />
+  </a>
+  <a href="mailto:darwin2010p@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
 </p>
 
 
