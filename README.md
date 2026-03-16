@@ -28,13 +28,17 @@
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Drake-error&theme=gotham&show_icons=true&include_all_commits=true&count_private=true" alt="Darwin's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Drake-error&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" alt="Darwin's Stats" />
+  
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drake-error&theme=gotham" alt="Darwin's Streak" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drake-error&theme=gotham&hide_border=false" alt="Darwin's Streak" />
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drake-error&theme=gotham&layout=compact&include_all_commits=true" alt="Top Languages" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drake-error&theme=gotham&layout=compact&hide_border=false&include_all_commits=true" alt="Top Languages" />
 </div>
 
 ---
@@ -46,7 +50,5 @@
 <a href="https://x.com/@Drake_error"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a> 
 <a href="mailto:darwin2010p@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
+p align="center">
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Drake-error&icon=0&color=0" alt="Visitor Count" />
-</p>
