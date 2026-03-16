@@ -1,22 +1,52 @@
+<div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B1B94&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B!!++I'm+Darwin+;DISCIPLINE;DEDICATION;DETERMINATION" alt="Typing SVG" /></a>
+</div>
 
-
-
-# 💫 About Me:
-I'm an EEE Student with Strong Foundation<br>Working On Revenue Generating APPS<br>I'm looking For Help With DSA , Rust<br>Open For Paid Collaboration<br>3D's - Discipline , Dedication and Determination<br>Clock's Ticking , never missing a chance
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@dar.w1n_ixe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/darwin-pk-215629393/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/AdCandid9445) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Drake_error) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:darwin2010p@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=drake-error&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=drake-error&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=drake-error&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 💫 About Me
+<p>
+  ⚡ <b>EEE Student</b> with a strong technical foundation<br>
+  💰 Working on <b>Revenue Generating Apps</b><br>
+  📚 Learning <b>DSA & Rust</b><br>
+  🤝 Open for <b>Paid Collaborations</b><br>
+  🎯 <b>3D's:</b> Discipline, Dedication, Determination<br>
+  ⌛ <i>"Clock's Ticking, never missing a chance"</i>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=drake-error&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Drake-error&theme=gotham&show_icons=true&include_all_commits=true&count_private=true" alt="Darwin's Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drake-error&theme=gotham" alt="Darwin's Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drake-error&theme=gotham&layout=compact&include_all_commits=true" alt="Top Languages" />
+</div>
+
+---
+
+### 🌐 Socials
+<p align="left">
+<a href="https://instagram.com/@dar.w1n_ixe"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/darwin-pk-215629393/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a> 
+<a href="https://x.com/@Drake_error"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a> 
+<a href="mailto:darwin2010p@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Drake-error&icon=0&color=0" alt="Visitor Count" />
+</p>
