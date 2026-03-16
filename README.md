@@ -50,5 +50,5 @@
 <a href="https://x.com/@Drake_error"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a> 
 <a href="mailto:darwin2010p@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
-p align="center">
+
 
