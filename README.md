@@ -46,9 +46,6 @@
   <a href="https://x.com/@Drake_error">
     <img src="https://skillicons.dev/icons?i=twitter" height="40" />
   </a>
-  <a href="https://reddit.com/user/u/AdCandid9445">
-    <img src="https://skillicons.dev/icons?i=reddit" height="40" />
-  </a>
   <a href="mailto:darwin2010p@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
