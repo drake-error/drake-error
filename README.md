@@ -25,18 +25,18 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <!-- General Stats Card (Using reliable mirror endpoint) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Drake-error&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" alt="Darwin's Stats" />
+  <!-- GitHub Stats (Using Vercel alternate mirror endpoint) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Drake-error&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" alt="Darwin's Stats" />
   
   <br/>
 
-  <!-- Updated Streak Stats URL -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Drake-error&theme=gotham&hide_border=false" alt="Darwin's Streak" />
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Drake-error&theme=gotham&hide_border=false" alt="Darwin's Streak" />
   
   <br/>
 
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drake-error&theme=gotham&layout=compact&hide_border=false&include_all_commits=true" alt="Top Languages" />
+  <!-- Top Languages Card (Using alternate mirror endpoint) -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Drake-error&theme=gotham&layout=compact&hide_border=false&include_all_commits=true" alt="Top Languages" />
 </div>
 
 ---
