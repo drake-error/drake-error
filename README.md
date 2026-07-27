@@ -25,17 +25,17 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <!-- GitHub Stats (Using Vercel alternate mirror endpoint) -->
+  <!-- Main Stats -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Drake-error&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" alt="Darwin's Stats" />
   
   <br/>
 
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Drake-error&theme=gotham&hide_border=false" alt="Darwin's Streak" />
+  <!-- Streak Stats (Updated Working Mirror) -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Drake-error&theme=gotham&hide_border=false" alt="Darwin's Streak" />
   
   <br/>
 
-  <!-- Top Languages Card (Using alternate mirror endpoint) -->
+  <!-- Top Languages -->
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Drake-error&theme=gotham&layout=compact&hide_border=false&include_all_commits=true" alt="Top Languages" />
 </div>
 
