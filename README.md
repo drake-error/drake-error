@@ -43,9 +43,9 @@
 
 ### 🏆 Achievements:
 <p align="left">
-  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" alt="Pull Shark" />
-  <img src="https://github.githubassets.com/assets/yolo-default-be0bb92e85a8.png" width="60" alt="YOLO" />
-  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-e77638ad3a63.png" width="60" alt="Pair Extraordinaire" />
+  <img src="https://github-profile-achievements.vercel.app/images/pull-shark.png" width="60" alt="Pull Shark" />
+  <img src="https://github-profile-achievements.vercel.app/images/yolo.png" width="60" alt="YOLO" />
+  <img src="https://github-profile-achievements.vercel.app/images/pair-extraordinaire.png" width="60" alt="Pair Extraordinaire" />
 </p>
 
 ---
