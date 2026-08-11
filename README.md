@@ -26,17 +26,17 @@
 # 📊 GitHub Stats:
 <div align="center">
   <!-- Main Stats -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Drake-error&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" alt="Darwin's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Drake-error&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" alt="Darwin's Stats" />
   
   <br/>
 
-  <!-- Streak Stats (Updated Working Mirror) -->
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Drake-error&theme=gotham&hide_border=false" alt="Darwin's Streak" />
   
   <br/>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Drake-error&theme=gotham&layout=compact&hide_border=false&include_all_commits=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drake-error&theme=gotham&layout=compact&hide_border=false&include_all_commits=true" alt="Top Languages" />
 </div>
 
 ---
@@ -53,5 +53,4 @@
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
-
 
