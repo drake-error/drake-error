@@ -43,9 +43,15 @@
 
 ### 🏆 Achievements:
 <p align="left">
-  <img src="https://github-profile-achievements.vercel.app/images/pull-shark.png" width="60" alt="Pull Shark" />
-  <img src="https://github-profile-achievements.vercel.app/images/yolo.png" width="60" alt="YOLO" />
-  <img src="https://github-profile-achievements.vercel.app/images/pair-extraordinaire.png" width="60" alt="Pair Extraordinaire" />
+  <a href="https://github.com/Drake-error?tab=achievements">
+    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="60" alt="Pull Shark" />
+  </a>
+  <a href="https://github.com/Drake-error?tab=achievements">
+    <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/docs/images/yolo.png" width="60" alt="YOLO" />
+  </a>
+  <a href="https://github.com/Drake-error?tab=achievements">
+    <img src="https://raw.githubusercontent.com/ryo-ma/github-profile-trophy/master/docs/images/pair-extraordinaire.png" width="60" alt="Pair Extraordinaire" />
+  </a>
 </p>
 
 ---
