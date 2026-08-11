@@ -26,7 +26,7 @@
 # 📊 GitHub Stats:
 <div align="center">
   <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Drake-error&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" alt="Darwin's Stats" />
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=Drake-error&theme=gotham&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" alt="Darwin's Stats" />
   
   <br/>
 
@@ -36,7 +36,7 @@
   <br/>
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drake-error&theme=gotham&layout=compact&hide_border=false&include_all_commits=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Drake-error&theme=gotham&layout=compact&hide_border=false&include_all_commits=true" alt="Top Languages" />
 </div>
 
 ---
