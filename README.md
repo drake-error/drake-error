@@ -17,7 +17,7 @@
 ### 💻 Tech Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,neovim,mysql,postman,linux,git,github,vscode,flutter,firebase,arduino&perline=11" />
+    <img src="https://skillicons.dev/icons?i=py,neovim,mysql,postman,linux,git,github,cursor,flutter,firebase,arduino&perline=11" />
   </a>
 </p>
 
@@ -38,6 +38,13 @@
   <!-- Top Languages -->
   <img src="https://github-readme-stats-three-xi-41.vercel.app/api/top-langs/?username=Drake-error&theme=gotham&layout=compact&hide_border=false&include_all_commits=true" alt="Top Languages" />
 </div>
+
+---
+
+### 🏆 Achievements:
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Drake-error&theme=gotham&column=3&margin-w=15" alt="GitHub Badges & Trophies" />
+</p>
 
 ---
 
